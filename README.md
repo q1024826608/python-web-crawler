@@ -13,7 +13,7 @@
 
 方法1
 
-1. 下载main/dist下的setup.exe
+1. 下载[点击此处下载](https://gitee.com/fantasykill/PythonSpider/blob/master/main/dist/pytieba-spider.zip) 解压运行setup.exe
 
 方法2
 
