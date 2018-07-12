@@ -1,0 +1,33 @@
+# -*- coding=utf-8 -*-
+
+import os
+
+# 列出path下文件/目录
+def ls(path):
+    dirs = os.listdir(path)
+    return dirs
+
+def rename(old, new):
+    os.rename(old, new)
+
+def rmfile(path):
+    os.remove(path)
+
+def rmdir(path):
+    os.removedirs(path)
+
+def savefile(path,file):
+    local=open(path,'wb')
+    local.write(file)
+    local.close()
+
+# 测试ls
+# for dir in ls("C:/Users/workpc/Downloads/test"):
+#     print dir
+
+# rename("C:/Users/workpc/Downloads/test","C:/Users/workpc/Downloads/test1")
+
+file1 = open("C:/Users/workpc/Downloads/Face_Rec.zip","w+")
+data = file1.read()
+file1.close()
+savefile("C:/Users/workpc/Downloads/Face_Rec.txt","13214325432")
