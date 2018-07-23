@@ -1,6 +1,6 @@
 # -*- coding=utf-8 -*-
 
-import main.htmltool as html_tool
+import htmltool as html_tool
 from bs4 import BeautifulSoup
 
 
