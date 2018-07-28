@@ -17,14 +17,14 @@
 
 方法2
 
-1. 安装python3 bs4
+1. 安装python3, pip install bs4
 
-2. 运行main/setup.py
+2. 运行py3def/setup.py
 
 3. 输入贴吧名
 
 4. 点击开始按钮，选择存储路径，开始爬取内容
 
-![运行](img/1.png)
-![运行](img/2.png)
-![运行](img/3.png)
+![运行](image/1.png)
+![运行](image/2.png)
+![运行](image/3.png)

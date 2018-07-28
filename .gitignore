@@ -5,3 +5,6 @@ main/__pycache__/savefile.cpython-36.pyc
 main/setup.spec
 main/__pycache__/setup.cpython-36.pyc
 
+py3def/__pycache__/bs4tool.cpython-36.pyc
+py3def/__pycache__/htmltool.cpython-36.pyc
+py3def/__pycache__/savefile.cpython-36.pyc
