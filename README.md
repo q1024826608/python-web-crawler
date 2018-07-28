@@ -19,7 +19,7 @@
 
 1. 安装python3, pip install bs4
 
-2. 运行py3def/setup.py
+2. 下载项目，进入项目根路径，运行python py3tieba/setup.py
 
 3. 输入贴吧名
 
@@ -27,4 +27,3 @@
 
 ![运行](image/1.png)
 ![运行](image/2.png)
-![运行](image/3.png)
